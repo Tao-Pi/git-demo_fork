@@ -4,7 +4,7 @@ def my_func():
 	print(""hello world)
 
 def add():
-	pass
+	return a + b
 
 
 def new_feature():
