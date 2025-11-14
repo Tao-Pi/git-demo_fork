@@ -5,3 +5,7 @@ def my_func():
 
 def add():
 	pass
+
+
+def new_feature():
+	pass
