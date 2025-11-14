@@ -4,7 +4,7 @@ def my_func():
 	print(""hello world)
 
 def add():
-	pass
+	retunr 1 + 2
 
 
 def new_feature():
