@@ -1,7 +1,7 @@
 import pandas as pd
 
 def my_func():
-	pass
+	print(""hello world)
 
 def add():
 	pass
