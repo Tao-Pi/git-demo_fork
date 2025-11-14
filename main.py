@@ -14,3 +14,7 @@ def new_feature():
 
 def new_functons():
 	pass
+
+
+def very_new_functons():
+	pass
