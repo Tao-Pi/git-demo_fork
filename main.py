@@ -10,3 +10,7 @@ def add():
 
 def new_feature():
 	pass
+
+
+def new_functons():
+	pass
